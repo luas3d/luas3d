@@ -17,6 +17,6 @@ I can ship a working MVP in days, not months.
 Python · TypeScript · n8n · LangChain · OpenAI/Anthropic APIs · PostgreSQL · Docker · AWS
 
 ### 📫 Work with me
-- 💼 Upwork: [seu link]
+- 💼 Upwork: https://www.upwork.com/freelancers/~01d5a861ea2520dfe7
 - 💬 Email: pedrinnieeva@gmail.com
-- 🔗 LinkedIn: [seu link]
+- 🔗 LinkedIn: https://www.linkedin.com/in/pedro-nieva-199143416/?isSelfProfile=true
